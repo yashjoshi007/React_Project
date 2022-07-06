@@ -1,2 +1,2 @@
 # React_Project
-Project Work as an Technical Intern at HighRadius Corporation
+Project Work as a Technical Intern at HighRadius Corporation
